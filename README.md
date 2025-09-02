@@ -26,4 +26,4 @@ This project explores sales data from an e-commerce platform to understand custo
 - Identification of high-value customers and top-performing products.  
 - Practical recommendations for demand forecasting, marketing, and stock management.  
 
-## Repository Structure  
+  
